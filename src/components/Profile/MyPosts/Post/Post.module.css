@@ -1,0 +1,17 @@
+.content__post {
+    margin-top: 40px;
+  }
+  .post {
+    display: flex;
+    align-items: center;
+    margin-top: 35px;
+  }
+  .post__img {
+    width: 40px;
+    margin-left: 30px;
+  }
+  .post__text {
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+  }

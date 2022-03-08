@@ -1,0 +1,38 @@
+.header {
+  grid-area: header;
+  background-color: #1e484b;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 30px;
+  border-radius: 0 0 10px 10px;
+}
+.header img {
+  width: 40px;
+}
+.header__img {
+  width: 55px;
+  height: 55px;
+  background-color: #da8403;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header__name {
+  color: #da8403;
+  font-size: 22px;
+  width: 40px;
+  margin-left: 15px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.header__name span {
+  letter-spacing: 4px;
+}
+.login-block {
+  float: right;
+}
+.login-block a {
+  color: #000000;
+}
